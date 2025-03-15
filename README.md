@@ -48,7 +48,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-uikey-145086212/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/u/user9170tY/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/kunaluiqkvl/)  
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kunalsinghuikey)
 ---
 
 ## 📊 GitHub Stats  
